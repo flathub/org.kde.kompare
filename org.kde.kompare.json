@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.1/src/libkomparediff2-22.04.1.tar.xz",
-                    "sha256": "e404db3115a2a669edd3010dcfd2b45b140481c8b98be9df08fae11d8a0ce33f",
+                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/libkomparediff2-22.08.1.tar.xz",
+                    "sha256": "694f535f77a803c18c11bd9754b253c037a70f3a78ab20102d4037b01dec5d42",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
