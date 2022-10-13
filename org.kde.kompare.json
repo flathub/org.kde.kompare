@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/kompare-22.08.1.tar.xz",
-                    "sha256": "95708640970150637109a16d2f058f03ea7e6f2d803bd3293e5daa2b77483263",
+                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/kompare-22.08.2.tar.xz",
+                    "sha256": "c543cc6f82f6d452140376587ae0b94fe56c9e12674162d9af0f546cad7f1abb",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
