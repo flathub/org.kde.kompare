@@ -37,18 +37,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/kompare-22.08.2.tar.xz",
-                    "sha256": "c543cc6f82f6d452140376587ae0b94fe56c9e12674162d9af0f546cad7f1abb",
+                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/kompare-22.12.0.tar.xz",
+                    "sha256": "a343f0e1cb02628083beb4c755a7bba227c1d9e90a6951e1853c540d22f783a9",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kompare-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "appdata.patch"
                 }
             ]
         }
