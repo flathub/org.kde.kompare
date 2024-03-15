@@ -6,10 +6,10 @@
     "command": "kompare",
     "rename-icon": "kompare",
     "finish-args": [
+        "--device=dri",
         "--share=ipc",
         "--socket=fallback-x11",
         "--socket=wayland",
-        "--device=dri",
         "--system-talk-name=org.freedesktop.UDisks2"
     ],
     "modules": [
