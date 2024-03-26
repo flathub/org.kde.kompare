@@ -16,6 +16,9 @@
         {
             "name": "libkomparediff2",
             "buildsystem": "cmake-ninja",
+            "config-opts": [
+                "-DBUILD_WITH_QT6=ON"
+            ],
             "sources": [
                 {
                     "type": "archive",
@@ -33,6 +36,9 @@
         {
             "name": "kompare",
             "buildsystem": "cmake-ninja",
+            "config-opts": [
+                "-DBUILD_WITH_QT6=ON"
+            ],
             "builddir": true,
             "sources": [
                 {
