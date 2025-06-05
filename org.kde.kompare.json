@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/libkomparediff2-25.04.1.tar.xz",
-                    "sha256": "8f7d0ccf7553b62fc933df1487477b822cedb4ed0777a3746d12257202494274",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/libkomparediff2-25.04.2.tar.xz",
+                    "sha256": "0f483451b25f462b7d7201d8920959655ac6d7bb4799a003d463a62e213ae079",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/kompare-25.04.1.tar.xz",
-                    "sha256": "c1a65e7b47478a7e913d0cf751037b814067c74fd234789b610a73c32f03870a",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/kompare-25.04.2.tar.xz",
+                    "sha256": "ba3c459a01fb7fe92f17a6746278eb610957c49c10cb311601b88c1714356c33",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
