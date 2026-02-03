@@ -12,6 +12,12 @@
         "--socket=wayland",
         "--system-talk-name=org.freedesktop.UDisks2"
     ],
+     "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/share/doc",
+        "/share/qlogging-categories6"
+    ],
     "modules": [
         {
             "name": "libkomparediff2",
